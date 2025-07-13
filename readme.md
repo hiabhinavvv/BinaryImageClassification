@@ -127,7 +127,6 @@ project-root/
 
 * Add a simple frontend using Streamlit or Flask
 * Integrate model evaluation metrics (confusion matrix, precision, recall)
-* Use data augmentation for improved generalization
 * Export model as a `.tflite` file for mobile deployment
 
 ---
